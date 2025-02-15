@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c84006f4-3f30-4cb1-9350-fc01691aeee0/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/fxn-demoBackend",
+    "appService.deploySubpath": "."
+}
