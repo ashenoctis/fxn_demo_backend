@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const port = 80
+const port = 8080
 
 app.get('/',(req, res) => {
     res.send('This is FXN Corp Demo Backend for azure, running on Port: '+ port)
